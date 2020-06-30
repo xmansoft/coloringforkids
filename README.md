@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Coloring for kids.
 
-You can use the [editor on GitHub](https://github.com/xmansoft/coloringforkids/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About App:
+Android Application to learn kids how to paint.
+This Application is free.
+No Ads in it.
+It's maked lovely.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### App available in:
 
-### Markdown
+[Amazon Store](/ColoringForKids.apk).
+[Mobango Store](/ColoringForKids.apk).
+[Apkpure Store](/ColoringForKids.apk).
+[Github](/ColoringForKids.apk).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Versions:
+### 1.0.0-alpha:
+Frist release.
+Test mode.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Open Source Libraries:
+1- [AndroidX AppCompat](/ColoringForKids.apk)
+2- [AndroidX Lifecycle Common](/ColoringForKids.apk)
+3- [AndroidX Core](/ColoringForKids.apk)
+4- [AndroidX CoordinatorLayout](/ColoringForKids.apk)
+5- [Google MaterialComponents](/ColoringForKids.apk)
+6- [SplunkMint Crashlytics](/ColoringForKids.apk)
+7- [XmanSoft ButterKnife](/ColoringForKids.apk)
+8- [Okhttp](/ColoringForKids.apk)
+9- [Google Gson](/ColoringForKids.apk)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xmansoft/coloringforkids/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About Devloper:
+*Name:* _Mohamed M. Zaitoon._
+*Age:* _21._
+*Country:* _Egypt._
+*Company:* _XmanSoft._
+*Facebook:* _[mohamedmzaitoon22](/ColoringForKids.apk)._
+*Twitter:* _[mohamedmzaitoon](/ColoringForKids.apk)._
+*WhatsApp:* _[+201557817621](/ColoringForKids.apk)._
+*Telegram:* _[mohamedmzaitoon22](/ColoringForKids.apk)._

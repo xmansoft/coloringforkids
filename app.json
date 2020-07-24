@@ -1,5 +1,5 @@
 {
-  "latestVersionName": "1.0.200717-beta",
-  "latestVersionCode": 200717,
-  "changeLog": "Frist release.\nTest mode."
+  "latestVersionName": "1.1.200724",
+  "latestVersionCode": 200724,
+  "changeLog": "Add supported for devices (Arm64)."
 }

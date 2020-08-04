@@ -1,5 +1,4 @@
 {
-  "latestVersionName": "1.1.200724",
-  "latestVersionCode": 200724,
-  "changeLog": "Add supported for devices (Arm64)."
-}
+  "latestVersionName": "1.2.200804",
+  "latestVersionCode": 200804,
+  "changeLog": "App icon changed.\nBugs fixed"
